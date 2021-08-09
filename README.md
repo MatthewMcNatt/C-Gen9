@@ -1,2 +1,2 @@
 # C-Gen9
-A 
+A Character Generator for stories using the enneagram personnality system as a base
